@@ -1,34 +1,39 @@
 # XOS Art Templates
 
-This sample repository contains various of my own templates for various pieces of media I have worked on during the time of my contributions for halogenOS, which are not available within the official media repository. 
-These are often seen throughout either the various threads associated with halogenOS or ship alongside the official XOS media in distributions.
+This branch of XOS-Art-Templates contains modified versions of the original art templates meant to be used for halogenOS with the Sonic Hacking Contest branding.
 
-- The templates are my own and can be edited with Adobe Photoshop.
-- They are absolutely free to use, feel free to share these around or create your own images based off of them.
-- While credit is not necessary, it would be appreciated if include it, have fun with the templates!
+Although I, Sewer56 am (at the time of writing) a judge of the SHC at the time of writing, this is not explicitly official SHC art - it is being used as a filler inside an in-progress re-organization of the announcement thread text.
+
+For more details please see the Original branch.
+
+## SHC19 Style
+
+```
+Font Family: Roboto
+Logo Font Family: Vipnagorgialla
+Primary Accent Colour: #0070cc
+Background Accent Colour: #0060b0
+```
 
 ------
-## Examples:
-Various eamples of the available templates are shown below, feel free to customize those to your desire.
-The official Android Roboto Thin font has been used in conjunction with the banners as well as the official dark theme colours.
-The repository contents contain more templates than the ones shown below, these however are the most commonly used ones throughout XOS.
+
+## Examples
 
 ### Thread Header Banner:
-![](https://gitlab.com/sewer56lol/XOSTemplates-Sewer56lol/raw/master/Examples/Header%20Banner.png)
+![](Examples/Thread%20Header%20Banner.png)
 
 ### Forum Banner:
-![](https://gitlab.com/sewer56lol/XOSTemplates-Sewer56lol/raw/master/Examples/Forum%20Banner.png)
+![](Examples/Forum%20Banner.png)
 
-### Thread Category Banner:
-![](https://gitlab.com/sewer56lol/XOSTemplates-Sewer56lol/raw/master/Examples/Borderless%20Banner.png)
-
-### Changelog:
-![](https://gitlab.com/sewer56lol/XOSTemplates-Sewer56lol/raw/master/Examples/Changelog.png)
+### Topic Banner:
+![](Examples/Topic%20Banner.png)
 
 ### Phone Wallpaper:
-![](https://gitlab.com/sewer56lol/XOSTemplates-Sewer56lol/raw/master/Phone%20Wallpapers/480DPI%20Logo/Dark/Valley/Dark.png)
+![](Examples/Phone%20Wallpaper.png)
+
+### Phone Wallpaper (Alt):
+![](Examples/Phone%20Wallpaper%20Alt.png)
 
 ### Desktop Wallpaper:
-The idea about this one being off-centered is that the most commonly used icons would go directly under the logo and text combination, ending up with a relatively nice looking and organized desktop.
-![](https://gitlab.com/sewer56lol/XOSTemplates-Sewer56lol/raw/master/Examples/Desktop%20Wallpaper.png)
+![](Examples/Desktop%20Wallpaper.png)
 
