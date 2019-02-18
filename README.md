@@ -14,21 +14,21 @@ The official Android Roboto Thin font has been used in conjunction with the bann
 The repository contents contain more templates than the ones shown below, these however are the most commonly used ones throughout XOS.
 
 ### Thread Header Banner:
-![](https://gitlab.com/sewer56lol/XOSTemplates-Sewer56lol/raw/master/Examples/Header%20Banner.png)
+![](Examples/Header%20Banner.png)
 
 ### Forum Banner:
-![](https://gitlab.com/sewer56lol/XOSTemplates-Sewer56lol/raw/master/Examples/Forum%20Banner.png)
+![](Examples/Forum%20Banner.png)
 
 ### Thread Category Banner:
-![](https://gitlab.com/sewer56lol/XOSTemplates-Sewer56lol/raw/master/Examples/Borderless%20Banner.png)
+![](Examples/Borderless%20Banner.png)
 
 ### Changelog:
-![](https://gitlab.com/sewer56lol/XOSTemplates-Sewer56lol/raw/master/Examples/Changelog.png)
+![](Examples/Changelog.png)
 
 ### Phone Wallpaper:
-![](https://gitlab.com/sewer56lol/XOSTemplates-Sewer56lol/raw/master/Phone%20Wallpapers/480DPI%20Logo/Dark/Valley/Dark.png)
+![](Phone%20Wallpapers/480DPI%20Logo/Dark/Valley/Dark.png)
 
 ### Desktop Wallpaper:
 The idea about this one being off-centered is that the most commonly used icons would go directly under the logo and text combination, ending up with a relatively nice looking and organized desktop.
-![](https://gitlab.com/sewer56lol/XOSTemplates-Sewer56lol/raw/master/Examples/Desktop%20Wallpaper.png)
+![](Examples/Desktop%20Wallpaper.png)
 
