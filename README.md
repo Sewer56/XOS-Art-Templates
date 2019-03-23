@@ -6,7 +6,7 @@ Although I, Sewer56 am (at the time of writing) a judge of the SHC at the time o
 
 For more details please see the Original branch.
 
-## SHC19 Style
+## SHC19 Style ("Eternal Halogenic Midnight")
 
 ```
 Font Family: Roboto
@@ -15,9 +15,21 @@ Primary Accent Colour: #0070cc
 Background Accent Colour: #0060b0
 ```
 
+## SHC19 Style ("SSRG White")
+
+```
+Logo Font Family: Vipnagorgialla Condensed (Custom Font)
+Primary Accent Colour: #ffffff
+Background Accent Colour: #0060b0
+```
+
 ------
 
-## Examples
+## Examples ("SSRG White")
+### Topic Banner:
+![](Examples/Topic%20Banner%20White.png)
+
+## Examples ("Eternal Halogenic Midnight")
 
 ### Thread Header Banner:
 ![](Examples/Thread%20Header%20Banner.png)
